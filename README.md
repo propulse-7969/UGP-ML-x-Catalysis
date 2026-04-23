@@ -167,7 +167,7 @@ IIT (BHU), Varanasi
 
 ```bash
 # Clone repo
-git clone <your-repo-link>
+git clone https://github.com/propulse-7969/UGP-ML-x-Catalysis
 
 # Install dependencies
 pip install -r requirements.txt
